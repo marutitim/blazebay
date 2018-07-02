@@ -1,0 +1,5 @@
+INSTRUCTIONS
+1.put the project in your server.
+2.Import the database(called lending.sql) to your phpmyadmin
+3.If you change the project folder,rename the base url under application folder in a directory called config.php 
+4.feel free to contact incase of problems in setup:simiyuutim@gmail.com

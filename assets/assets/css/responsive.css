@@ -1,0 +1,565 @@
+/* Responsive Media Queries */
+
+
+
+@media (min-width: 992px) {
+	
+
+.social_icon{
+    margin-right: -5px;
+    }
+		
+.talentskill_img{
+    height: 62px;
+    width: 70px;
+    }
+.talentskill h2{
+    font-size: 17px;
+    margin: 0 0 15px;
+    width: 69%;
+    }
+.textright_left{
+    margin: 6px 0 0;
+    }
+.hire-freelancer img{ width:100%;}
+	
+.testi-text .img{
+	transform:scale(0.7,0.7);
+    }
+
+.talentskill p{
+    width: 68%;
+    }
+	
+.regislink li a{
+    font-size: 15px;
+    }
+
+}
+
+
+@media (max-width: 991px) {
+
+.footertext1, .footertext2 {
+	margin-bottom:20px;
+}
+
+}
+
+@media  (min-width: 768px) and (max-width: 991px) {
+.padding0{ padding:15px;}
+.padding0_left{ padding:15px; }
+.padding0_right{ padding:15px; }
+
+.bannertext{
+    bottom: 0;
+    top: 9px;
+    }
+.portfolio-item img {
+    max-height: 103px;
+    min-height: 103px;
+    } 
+.c-domain-slideshow{
+    min-height: 228px !important;
+    }
+
+.topregion label {
+    min-height: 1px;
+    padding: 0;
+	font-size:11px;
+    }
+
+.client-speak .btn-lg, .client-speak .btn-group-lg > .btn {
+    font-size: 12px;
+    }
+.director-tab .nav > li > a{
+    font-size: 12px;
+    padding: 4px;
+   }	
+
+.socialbox h2{
+    font-size: 20px;
+    margin: 6px 0;
+    padding: 6px;
+    }
+	
+	   
+   
+   
+footer .footerlink h3{
+    font-size: 17px;
+    }
+
+	
+.memberamount{
+    margin: 0 4px 0 0;
+    width: 23.7%;
+    }
+.memberamount h1 span{
+    font-size: 18px;
+    }
+.memberamount h1{
+    font-size: 8px;
+    line-height: 19px;
+    word-wrap: break-word;
+    }
+	
+	
+.usertop p{
+    width: 55% !important;
+    }
+.main-header .input-group{
+    margin: 10px 0 0;
+    }
+.regislink button.post-btn {
+    font-size: 12px;
+    margin: 0;
+    padding: 10px 9px;
+   }
+.regislink ul li{
+    margin-left: 4px;
+    }
+.navbar-default .navbar-nav > li > a{
+    font-size: 14px;
+    line-height: 13px;
+    padding: 0 10px;
+    }
+.social_icon{
+    margin-right: 0;
+    }
+.section5_left h3{
+    font-size: 21px;
+    line-height: 32px;
+    padding: 0;
+     }
+.section5_left ul {
+    float: left;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+	 
+	 
+.banner-section{
+    height: 400px;
+    }
+.banner-text{
+    padding: 99px 0 0 15px;
+    width: 351px;
+    }
+.banner-text h1{
+    font-size: 32px;
+    line-height: 41px;
+    }
+	
+.talentskill_img {
+    height: 51px;
+    width: 56px;
+   }
+.talentskill h2{
+    font-size: 16px;
+    width: 66%;
+    }
+.talentskill p{
+    width: 66%;
+    }
+	
+.section4_right_img img{ width:100%;}
+.section4_left h3{
+    font-size: 26px;
+	line-height: 35px;
+    }
+.textright_left{
+    margin: 5px 0 0;
+    }
+.section4_left p{
+    font-size: 15px;
+    line-height: 22px;
+	padding:0px 0 7px;
+	}
+	
+.hire-freelancer img{ width:100%;}
+.projectbox li {
+    font-size: 30px;
+	line-height:30px;
+    }
+.hire-freelancer h2{
+    font-size: 20px;
+    line-height: 29px;
+}
+
+.hire-freelancer h2 span{
+    font-size: 21px;
+    line-height: 35px;
+    }
+	
+	
+
+.testi-text .img{
+	transform:scale(0.6,0.6);
+	transform-origin: 0px 60px;
+}
+
+.header-left::before{
+    left: -6%;
+    top: 0;
+    width: 57%;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+.director-tab .nav-tabs > li{
+	width:100%;
+}
+.testi-text{
+	position:relative;
+    }
+	
+.header-left::before { display: none;}
+.main-header .form-control {
+    border: 1px solid #CCCCCC;
+    }
+.header-right::before{
+     display: none;}
+
+.circle {
+    bottom:14%;
+    left: 10%;
+    position: absolute;
+    text-align: center;
+    width: 75px;
+   }
+.testi-text h1{
+    font-size: 17px;
+    line-height: 22px;
+    }
+   	
+.navbar-default .navbar-nav > li > a{
+    border-right: 1px solid #000 !important;
+	float:left;
+	margin: 9px 0;
+    width: 100%;
+    }
+.regislink {
+    float: left;
+    margin: 10px 0 17px;
+    padding: 0;
+    width: auto;
+}
+.regislink button.post-btn{
+    margin: 1px 15px 7px 0;
+	float:none;
+	display:block;
+   }
+.regislink ul li{
+    margin-left: 0;
+    margin-right: 6px;
+     }
+.main-header .input-group{
+    margin: 8px 0 15px;
+    }
+	
+.banner-section{
+    height: 71px;
+    }
+	
+	
+.banner-text{
+    padding: 4px 1px 0 13px;
+    width: 100%;
+    }
+.banner-text h1{
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 12px;
+    }
+.banner-text h1 span {
+    font-size: 10px;
+    text-align: right;
+	}
+	
+.banner-text p{
+    font-size: 8px;
+    line-height: 3px;
+    padding: 2px 0 1px;
+    }
+.container-section1 h3{
+    font-size: 19px;
+    line-height: 27px;
+	}
+.container-section1 p{
+    padding: 24px 8px 7px;
+    }
+.container-section2 h3{
+    font-size: 19px;
+    line-height: 27px;
+    }
+.skillsbox li{
+    width: 99%;
+	border-bottom: 1px solid #cccccc !important;
+	min-height:88px;
+    }
+.talentskill_img{
+    height: 63px;
+    width: 62px;
+	}
+.talentskill h2{
+    font-size: 16px;
+    width: auto;
+    }
+.skillsbox li.borderright{
+    border-right: 0px solid #cccccc;
+    }
+.talentskill button{
+    line-height: 33px;
+	float:right;
+    }
+.container-section3 h3{
+    font-size: 19px;
+    line-height: 27px;
+	}
+.container-section3 p{
+    padding: 24px 8px 7px;
+    }
+.getjob li{
+    width: 99%;
+    }	
+.getjob_text_img3{
+    margin: 30px auto 0;
+    }
+.getjob_text_img2{
+    margin: 30px auto 0;
+    }
+.container-section3{
+    background: none #fff ;
+    }
+.section4_left{
+    width: 99%;
+     }
+.textright_left{
+    margin: 12px 0 0;
+    }
+	 
+.section4_right{
+    width: 100%;
+    }
+.section4_right_img img{ width:100%; margin-top:12px;}
+.section5_left{
+    width: 100%;
+     }
+.section5_left h3{
+    font-size: 19px;
+    line-height: 27px;
+	padding: 0;
+    }
+.section5_right{
+    width: 100%;
+    }
+.hire-freelancer h2{
+    font-size: 17px;
+    line-height: 22px;
+/*    padding: 0 15%;*/
+	width:100%;
+    }
+	
+.hire-freelancer h2 span{
+    font-size: 21px;
+    line-height: 33px;
+    }
+.testi-text{
+    width: 100%;
+	padding:0px 0px;	
+    }
+.testi-text img{ width: auto; height:auto; margin:0px auto;}
+
+.testi-text h2{
+    font-size: 11px;
+    line-height: 12px;
+    }
+.testi-text h2 span{
+    font-size: 9px;
+    }
+.testi-text p{
+    font-size: 9px;
+    line-height: 10px;
+    }
+
+.projectbox li{
+    margin: 18px 0 9px;
+    width: 100%;
+    }
+	
+.socialbox{
+    width: 100%;
+    }	
+.textcol{
+    text-align: center;
+     }
+.textcol2{
+    text-align: center;
+     }
+.skillsbox li.bordertop{ border-bottom:0px;}
+.websoftlink li{
+    width: 99%;
+	}
+.websoftware h2{
+    font-size: 19px;
+    margin: 18px 0 17px;
+    width: 100%;
+	}
+.work-button{
+    margin: 0 0 5px;
+    }
+.web-button{
+    margin: 0 5px 0 0;
+    padding: 7px 17px;
+    }
+.jobtypes{
+    margin: 4px 0px;
+	float:left;
+    }
+.jobinput{
+    margin: 4px 0px;
+	float:left;
+    }
+	
+	
+}
+
+@media  (min-width: 481px) and (max-width: 767px) {
+	
+
+
+.c-domain-slideshow{
+    min-height: 381px !important;
+    }
+.testi-text .img{
+	transform:scale(0.7,0.7);
+    }
+.websoftlink li{
+    width: 33%;
+	}
+.circle{
+    bottom: 14%;
+    left: 20%;
+    }
+.testi-text h1{
+    font-size: 24px;
+    line-height: 28px;
+    left: 25%;
+    margin: 0;
+    padding: 2px 0;
+    top: 34%;
+    width: 50%;
+    }
+.memberamount{
+    margin: 0 5px 0 0;
+    width: 23.4%;
+    }	
+}
+
+@media (max-width:480px) {
+.padding0{ padding:15px;}
+.padding0_left{ padding:15px; }
+.padding0_right{ padding:15px; }
+.not-found h4{
+    font-size: 100px;
+	padding:20px 0px;
+     }
+
+.trade_img2{
+    width: 262px;
+    }
+	
+.tradebox p{
+    padding: 6px 0 !important;
+    }
+	
+	
+.paybtn{
+    font-size: 11px;
+    padding: 2px 5px;
+    }
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    font-size: 11px;
+    }
+.bannertext-logo{
+    width: 27px;
+    }
+	
+.bannertext{
+    bottom: 0;
+    top: 9px;
+    }
+	
+.bannertext h2{
+    font-size: 20px;
+    }
+	
+
+.c-domain-slideshow{
+    min-height: 282px !important;
+    }
+
+.signup_section{
+    width:100%;
+     }
+	 
+.logo{
+    margin: 0 12px;
+    }
+.topregion label{
+    font-size: 12px;
+    margin-top: 8px;
+    padding: 7px 0 9px;
+    }
+.navbar-default .navbar-nav > li > a{
+    border-right: 0 solid #000 !important;
+    margin: 4px 0;
+    }
+.featuredpro #amazingcarousel-1 .amazingcarousel-prev{
+    margin-left: -17px;
+    }
+.featuredpro #amazingcarousel-1 .amazingcarousel-next{
+    margin-right: -17px;
+    }
+.featuredpro #amazingcarousel-2 .amazingcarousel-prev{
+    margin-left: -17px;
+    }
+.featuredpro #amazingcarousel-2 .amazingcarousel-next{
+    margin-right: -17px;
+    }
+.director-tab {
+	padding:0px 15px;
+    }
+
+.client-speak .btn-lg, .client-speak .btn-group-lg > .btn{
+    font-size: 15px;
+    }
+.container-section1 h3{
+    font-size: 14px;
+	}
+	
+.footertext1 .icon1{
+    margin: 0 4px;
+    padding: 4px 0;
+    }	
+.footertext2{ margin:6px 0px;}
+.footertext3 h2{
+    font-size: 13px;
+    text-align: center;
+    }
+.socialbox h2{
+    font-size: 17px;
+    }
+.director-tab .nav > li > a{
+    font-size: 14px;
+    padding: 9px;
+    }
+	
+	
+
+}
